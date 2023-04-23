@@ -6,9 +6,12 @@ submitters:
 2. stav avitan
 
 # files
-1.the haked binary - secret
+1.the haked binary - secret 
+
 2.the hacked lib - .so.6
+
 3.The server - nserver.c
+
 4.The client - vclient.c
 
 # the lab
