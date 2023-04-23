@@ -10,15 +10,15 @@ submitters:
 
 2.the hacked lib - .so.6
   
-  i used the command:
+      i used the command:
   
-  $ mv libraryInjection/.so.6 libraryInjection/so.6
+          $ mv libraryInjection/.so.6 libraryInjection/so.6
   
-  to unhide the file (git dosent allows to upload a hidden file).
+      to unhide the file (git dosent allows to upload a hidden file).
   
-  so, when checking the assingment please hide the file again using:
+      so, when checking the assingment please hide the file again using:
   
-  $ mv libraryInjection/so.6 libraryInjection/.so.6
+          $ mv libraryInjection/so.6 libraryInjection/.so.6
   
 3.The server - nserver.c
 
