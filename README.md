@@ -9,10 +9,17 @@ submitters:
 1.the haked binary - secret 
 
 2.the hacked lib - .so.6
-  i used the command: $ mv libraryInjection/.so.6 libraryInjection/so.6
+  
+  i used the command:
+  
+  $ mv libraryInjection/.so.6 libraryInjection/so.6
+  
   to unhide the file (git dosent allows to upload a hidden file).
+  
   so, when checking the assingment please hide the file again using:
-  mv libraryInjection/so.6 libraryInjection/.so.6
+  
+  $ mv libraryInjection/so.6 libraryInjection/.so.6
+  
 3.The server - nserver.c
 
 4.The client - vclient.c
